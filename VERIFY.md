@@ -12,7 +12,7 @@
    输出 `Good signature from "凝恩 (NINGEN-DEV 血统签名)"` 即确认真实。
 3. 核对 SHA-256 指纹（签名针对此版本，内容更新后需重新签名）：
    ```
-   3f201a1229773e703d5a0520c246bef6f7d81fe7e681ec8b53396814d40ee1e6
+   547d61e22004f5562acbd24f90dae08c3bb802d6c027ef9b3fd79ac9bd770853
    ```
 
 ## 防冒充原理
